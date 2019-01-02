@@ -1,0 +1,4 @@
+Incr Tcl - OOP extension for operation listings and file operations.
+INIFILE - to read configuration file.
+msgcat - for localization.
+Tk - for GUI.

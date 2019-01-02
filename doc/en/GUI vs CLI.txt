@@ -1,0 +1,1 @@
+GUi has one benefit: it's multi-threaded.
